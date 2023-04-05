@@ -1,5 +1,5 @@
 
-Create a new file `/etc/my-second-file` with content `amazing`
+Create New Project at Sonarqube
 
 <br>
 
