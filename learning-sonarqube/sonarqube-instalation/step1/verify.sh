@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello world"
+docker ps | grep sonarqube
