@@ -1,6 +1,6 @@
 {
-  "title": "Intro Sonarqube",
-  "description": "Let's learn about sonarqube",
+  "title": "Code Convention",
+  "description": "Let's learn about code convention",
   "details": {
     "intro": {
       "text": "intro.md",
